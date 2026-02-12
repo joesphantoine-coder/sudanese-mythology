@@ -12,7 +12,9 @@ export default function Home() {
           boxShadow: "0 2px 6px rgba(0,0,0,0.04)",
         }}
       >
-        <h1 style={{ fontSize: 44, marginTop: 0 }}>Sudanese Mythology</h1>
+        <h1 style={{ fontSize: 44, marginTop: 0 }}>
+          Hoooooooooota testing 083752935789
+        </h1>
 
         <p style={{ color: "#555", maxWidth: 700 }}>
           A simple website collecting short articles inspired by Sudanese
