@@ -13,7 +13,7 @@ export default function Home() {
         }}
       >
         <h1 style={{ fontSize: 44, marginTop: 0 }}>
-          Hoooooooooota testing 083752935789
+          Sudanese Mythology Explorer
         </h1>
 
         <p style={{ color: "#555", maxWidth: 700 }}>
